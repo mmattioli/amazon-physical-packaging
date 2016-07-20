@@ -1,0 +1,34 @@
+[
+    {
+        "Designation" : "1A5",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 10.25,
+                "centimeters" : 26.035
+            },
+            "height" : {
+                "inches" : 4.5,
+                "centimeters" : 11.43
+            },
+            "length" : {
+                "inches" : 13.0,
+                "centimeters" : 33.02
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "B2A",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 8.5,
+                "centimeters" : 21.59
+            },
+            "height" : {
+                "inches" : 10.0,
+                "centimeters" : 25.4
+            }
+        },
+        "Description" : "Padded Envelope"
+    }
+]
