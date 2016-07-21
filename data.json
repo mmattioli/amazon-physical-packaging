@@ -18,6 +18,96 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "1AD",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 9.75,
+                "centimeters" : 24.765
+            },
+            "height" : {
+                "inches" : 3.0,
+                "centimeters" : 7.62
+            },
+            "length" : {
+                "inches" : 13.25,
+                "centimeters" : 33.655
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "1AE",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 10.125,
+                "centimeters" : 25.718
+            },
+            "height" : {
+                "inches" : 8.0,
+                "centimeters" : 20.32
+            },
+            "length" : {
+                "inches" : 12.875,
+                "centimeters" : 32.703
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "1B9",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 8.75,
+                "centimeters" : 22.225
+            },
+            "height" : {
+                "inches" : 8.5,
+                "centimeters" : 21.59
+            },
+            "length" : {
+                "inches" : 17.75,
+                "centimeters" : 45.085
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "A1",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 7.125,
+                "centimeters" : 18.098
+            },
+            "height" : {
+                "inches" : 3.0,
+                "centimeters" : 7.62
+            },
+            "length" : {
+                "inches" : 9.75,
+                "centimeters" : 24.765
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "A3",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 7.125,
+                "centimeters" : 18.098
+            },
+            "height" : {
+                "inches" : 9.75,
+                "centimeters" : 24.765
+            },
+            "length" : {
+                "inches" : 5.0,
+                "centimeters" : 12.7
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "B2A",
         "Dimensions" : {
             "width" : {
