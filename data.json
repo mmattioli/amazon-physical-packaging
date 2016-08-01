@@ -120,5 +120,23 @@
             }
         },
         "Description" : "Padded Envelope"
+    },
+    {
+        "Designation" : "PB",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 16.375,
+                "centimeters" : 41.593
+            },
+            "height" : {
+                "inches" : 13.125,
+                "centimeters" : 33.338
+            },
+            "length" : {
+                "inches" : 23.875,
+                "centimeters" : 60.643
+            }
+        },
+        "Description" : "Cardboard Box"
     }
 ]
