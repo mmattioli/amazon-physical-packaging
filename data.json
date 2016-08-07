@@ -138,5 +138,19 @@
             }
         },
         "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "PM4",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 18.75,
+                "centimeters" : 47.625
+            },
+            "height" : {
+                "inches" : 23.625,
+                "centimeters" : 60.008
+            }
+        },
+        "Description" : "Resealable Polyethylene Bag"
     }
 ]
