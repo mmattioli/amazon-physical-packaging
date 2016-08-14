@@ -152,5 +152,23 @@
             }
         },
         "Description" : "Resealable Polyethylene Bag"
+    },
+    {
+        "Designation" : "V3",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 6.50,
+                "centimeters" : 16.51
+            },
+            "height" : {
+                "inches" : 2.0,
+                "centimeters" : 5.08
+            },
+            "length" : {
+                "inches" : 9.50,
+                "centimeters" : 24.13
+            }
+        },
+        "Description" : "Cardboard Box"
     }
 ]
