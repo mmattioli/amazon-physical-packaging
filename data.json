@@ -122,6 +122,24 @@
         "Description" : "Padded Envelope"
     },
     {
+        "Designation" : "K3",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 13.25,
+                "centimeters" : 33.655
+            },
+            "height" : {
+                "inches" : 6.25,
+                "centimeters" : 15.875
+            },
+            "length" : {
+                "inches" : 19.0,
+                "centimeters" : 48.26
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "PB",
         "Dimensions" : {
             "width" : {
@@ -167,6 +185,24 @@
             "length" : {
                 "inches" : 9.50,
                 "centimeters" : 24.13
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
+        "Designation" : "V4",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 9.25,
+                "centimeters" : 23.495
+            },
+            "height" : {
+                "inches" : 1.0,
+                "centimeters" : 2.54
+            },
+            "length" : {
+                "inches" : 12.0,
+                "centimeters" : 30.48
             }
         },
         "Description" : "Cardboard Box"
