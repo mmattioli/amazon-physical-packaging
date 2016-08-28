@@ -1,5 +1,23 @@
 [
     {
+        "Designation" : "1A3",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 10.75,
+                "centimeters" : 27.305
+            },
+            "height" : {
+                "inches" : 4.50,
+                "centimeters" : 11.43
+            },
+            "length" : {
+                "inches" : 13.50,
+                "centimeters" : 34.29
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "1A5",
         "Dimensions" : {
             "width" : {
