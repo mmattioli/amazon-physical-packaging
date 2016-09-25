@@ -72,6 +72,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "1B4",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 14.0,
+                "centimeters" : 35.56
+            },
+            "height" : {
+                "inches" : 8.375,
+                "centimeters" : 21.273
+            },
+            "length" : {
+                "inches" : 17.125,
+                "centimeters" : 43.498
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "1B9",
         "Dimensions" : {
             "width" : {
@@ -188,6 +206,24 @@
             }
         },
         "Description" : "Resealable Polyethylene Bag"
+    },
+    {
+        "Designation" : "S8",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 15.0,
+                "centimeters" : 38.1
+            },
+            "height" : {
+                "inches" : 4.25,
+                "centimeters" : 10.795
+            },
+            "length" : {
+                "inches" : 23.0,
+                "centimeters" : 58.42
+            }
+        },
+        "Description" : "Cardboard Box"
     },
     {
         "Designation" : "V3",
