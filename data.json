@@ -36,6 +36,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "1A7",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 18.0,
+                "centimeters" : 45.72
+            },
+            "height" : {
+                "inches" : 7.125,
+                "centimeters" : 18.098
+            },
+            "length" : {
+                "inches" : 14.375,
+                "centimeters" : 36.513
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "1AD",
         "Dimensions" : {
             "width" : {
