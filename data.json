@@ -90,6 +90,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "1B2",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 12.25,
+                "centimeters" : 31.115
+            },
+            "height" : {
+                "inches" : 3.125,
+                "centimeters" : 7.938
+            },
+            "length" : {
+                "inches" : 15.25,
+                "centimeters" : 38.735
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "1B4",
         "Dimensions" : {
             "width" : {
