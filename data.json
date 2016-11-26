@@ -212,6 +212,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "N3",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 12.0,
+                "centimeters" : 30.48
+            },
+            "height" : {
+                "inches" : 5.125,
+                "centimeters" : 13.018
+            },
+            "length" : {
+                "inches" : 15.25,
+                "centimeters" : 38.735
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "PB",
         "Dimensions" : {
             "width" : {
