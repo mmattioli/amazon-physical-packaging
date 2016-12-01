@@ -194,6 +194,20 @@
         "Description" : "Padded Envelope"
     },
     {
+        "Designation" : "JM8",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 10.25,
+                "centimeters" : 26.035
+            },
+            "height" : {
+                "inches" : 14.5,
+                "centimeters" : 36.83
+            }
+        },
+        "Description" : "Padded Envelope"
+    },
+    {
         "Designation" : "K3",
         "Dimensions" : {
             "width" : {
