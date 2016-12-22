@@ -262,6 +262,20 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "PM1",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 8.5,
+                "centimeters" : 21.59
+            },
+            "height" : {
+                "inches" : 11.625,
+                "centimeters" : 29.528
+            }
+        },
+        "Description" : "Resealable Polyethylene Bag"
+    },
+    {
         "Designation" : "PM4",
         "Dimensions" : {
             "width" : {
