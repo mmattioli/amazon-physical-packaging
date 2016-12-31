@@ -280,6 +280,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "PC",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 16.0,
+                "centimeters" : 40.64
+            },
+            "height" : {
+                "inches" : 12.5,
+                "centimeters" : 31.75
+            },
+            "length" : {
+                "inches" : 23.625,
+                "centimeters" : 60.008
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "PM1",
         "Dimensions" : {
             "width" : {
