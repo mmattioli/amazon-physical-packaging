@@ -344,6 +344,24 @@
         "Description" : "Cardboard Box"
     },
     {
+        "Designation" : "U4",
+        "Dimensions" : {
+            "width" : {
+                "inches" : 9.0,
+                "centimeters" : 22.86
+            },
+            "height" : {
+                "inches" : 7.75,
+                "centimeters" : 19.685
+            },
+            "length" : {
+                "inches" : 39.5,
+                "centimeters" : 100.33
+            }
+        },
+        "Description" : "Cardboard Box"
+    },
+    {
         "Designation" : "V3",
         "Dimensions" : {
             "width" : {
